@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **bhuvanchand.maddi333@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1mMlUe_szzMl3WNF7q9IUAv1SAzjjfPqg](https://drive.google.com/drive/folders/1mMlUe_szzMl3WNF7q9IUAv1SAzjjfPqg)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1mMlUe_szzMl3WNF7q9IUAv1SAzjjfPqg](https://github.com/bhuvanchandmaddi/bhuvanchandmaddi/blob/main/Bhuvan_Chand_Maddi.pdf)
 
 - ⚡ Fun fact **I think I am funny**
 
