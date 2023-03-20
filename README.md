@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Bhuvan Chand</h1>
 <h3 align="center">A passionate Devops Engineer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvanchandmaddi&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvanchandmaddi" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhuvanchandmaddi" alt="bhuvanchandmaddi" /></a> </p>
+
 - 🔭 I’m currently working on [EKS Cluster Creation using Terraform](https://github.com/bhuvanchandmaddi/terraform-eks-k8s)
 
 - 🌱 I’m currently learning **Gitops models to achieve continious deployment**
@@ -26,4 +30,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhuvanchandmaddi&show_icons=true&locale=en&layout=compact" alt="bhuvanchandmaddi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhuvanchandmaddi&show_icons=true&locale=en" alt="bhuvanchandmaddi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvanchandmaddi&" alt="bhuvanchandmaddi" /></p>
+
 
