@@ -8,7 +8,7 @@
 
 <img align="right" alt="GIF" src="https://res.cloudinary.com/practicaldev/image/fetch/s--X8Q59V5M--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/zu5cr0j2qczswka4wh39.gif" width="400" height="200" />
 
-- 🔭 I’m currently working on [EKS Cluster Creation using Terraform](https://github.com/bhuvanchandmaddi/terraform-eks-k8s)
+- 🔭 I’m currently working on [EKS Cluster Creation using Terraform & karpenter for cluster autoscaling](https://github.com/bhuvanchandmaddi/Terraform-eks-karpenter)
 
 - 🌱 I’m currently learning **Gitops models to achieve continious deployment**
 
