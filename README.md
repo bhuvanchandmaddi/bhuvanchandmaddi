@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Gitops models to achieve continious deployment**
 
-- 📝 I regularly write articles on [https://www.blogger.com/profile/00162289405295306102](https://www.blogger.com/profile/00162289405295306102)
+- 📝 I regularly write articles on [hashnode]([https://www.blogger.com/profile/00162289405295306102](https://bhuvanchand.hashnode.dev/))
 
 - 💬 Ask me about **Kubernetes,Terraform,Ansible,Docker,Helm,AWS etc**
 
